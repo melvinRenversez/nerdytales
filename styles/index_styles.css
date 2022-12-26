@@ -1,4 +1,24 @@
 body{
-       background-image: url("../assets/image/img_nerdytales.png");
-       background-size: cover;
+       background: grey;
+}
+
+.nav_bar
+{
+       background-color: red;
+       justify-content: center;
+       text-align: right;
+}
+
+.nav_bar nav ul li 
+{
+       text-decoration: none;
+       list-style-type: none;
+       text-align: right;
+       position: relative;
+       margin: 15px 15px 20px 15px ;
+}
+
+.nav_bar nav ul
+{
+       display:flex;   
 }
