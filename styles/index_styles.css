@@ -21,4 +21,8 @@ body{
 .nav_bar nav ul
 {
        display:flex;   
+       align-items: right;
+       position: relative;
+       justify-content: flex-end;
+       
 }
