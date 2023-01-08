@@ -1,6 +1,5 @@
 body{
-       background: url(../assets/image/Drawing-1.sketchpad_2.png);
-       background-size: cover !important;
+       background: grey;
        margin: 0;
        padding: 0;
 }
@@ -26,8 +25,6 @@ body{
 
 .nav_bar nav ul li a 
 {
-       font-family: Copperplate, Copperplate Gothic Light, fantasy;
-       font-size: 20px;
        color: white;
        text-decoration: none ;
        position: relative;
@@ -52,11 +49,10 @@ body{
 }
 
 .name_group{
-       font-family: Copperplate, Copperplate Gothic Light, fantasy;
-       /* background: #BD1FCF;
+       background: #BD1FCF;
        background: linear-gradient(to right, #BD1FCF 15%, #A263FF 50%, #23CFCF 100%);
        -webkit-background-clip: text;
-       -webkit-text-fill-color: transparent; */
+       -webkit-text-fill-color: transparent;
        margin: 5px 10px;
        padding: 0;
        font-size: 20px;
